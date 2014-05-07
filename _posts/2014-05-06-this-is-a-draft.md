@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: blog
-published: true
-title: no longer a draft
+published: false
+title: this is a draft
 ---
 
 ## A New Post
